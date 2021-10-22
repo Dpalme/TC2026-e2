@@ -18,3 +18,6 @@ Namás ponga el nombre del país y le regresa todo lo que tiene de ese país. Es
 
 
 y yap, gracias profe, ora sí me voy a dormir que mañana ya está bien pesado y ni ha empezado oficialmente, con su permiso
+
+
+ah simón, igual si se mete a `/reset` resetea la bd porque pus, luego se ocupa eso
